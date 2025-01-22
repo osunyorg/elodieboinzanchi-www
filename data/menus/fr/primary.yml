@@ -13,13 +13,6 @@ items:
   kind: page
   new_tab: false
   children:
-  - title: GT Reprise Vrai de Vrai
-    target: "/projets/gt-reprise-vrai-de-vrai/"
-    kind: page
-    new_tab: false
-    children: []
-    path: "/pages/projets/gt-reprise-vrai-de-vrai"
-    file: content/fr/pages/projets/gt-reprise-vrai-de-vrai/_index.html
   - title: GT Chantier Cinéma
     target: "/projets/gt-chantier-cinema/"
     kind: page
