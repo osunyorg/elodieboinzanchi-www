@@ -12,14 +12,7 @@ items:
   target: "/projets/"
   kind: page
   new_tab: false
-  children:
-  - title: GT Chantier Cinéma
-    target: "/projets/gt-chantier-cinema/"
-    kind: page
-    new_tab: false
-    children: []
-    path: "/pages/projets/gt-chantier-cinema"
-    file: content/fr/pages/projets/gt-chantier-cinema/_index.html
+  children: []
   path: "/projects"
   file: content/fr/projects/_index.html
 - title: Annuaire
