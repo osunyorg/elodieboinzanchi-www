@@ -36,4 +36,11 @@ items:
   children: []
   path: "/organizations"
   file: content/fr/organizations/_index.html
+- title: GT Reprise Vrai de Vrai
+  target: "/gt-reprise-vrai-de-vrai/"
+  kind: page
+  new_tab: false
+  children: []
+  path: "/pages/gt-reprise-vrai-de-vrai"
+  file: content/fr/pages/gt-reprise-vrai-de-vrai/_index.html
 
