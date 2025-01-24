@@ -16,7 +16,7 @@ items:
   path: "/projects"
   file: content/fr/projects/_index.html
 - title: Annuaire
-  target: "/annuaire/"
+  target: "/les-cineastes/"
   kind: page
   new_tab: false
   children: []
