@@ -17,6 +17,8 @@ fr:
     projects_categories: /projets/:slug/
     posts: /actualites/:year-:month-:day-:slug/
     posts_categories: /actualites/:slug/
+    persons: /les-cineastes/:slug/
+    persons_categories: /les-cineastes/categories/:slug/
   taxonomies:
     administrator: administrators
     author: authors
