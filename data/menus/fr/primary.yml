@@ -15,8 +15,8 @@ items:
   children: []
   path: "/persons"
   file: content/fr/persons/_index.html
-- title: Les groupes de travail
-  target: "/projets/"
+- title: Les actions
+  target: "/actions/"
   kind: page
   new_tab: false
   children: []
