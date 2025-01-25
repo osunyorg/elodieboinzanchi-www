@@ -19,6 +19,7 @@ fr:
     posts_categories: /actualites/:slug/
     persons: /les-cineastes/:slug/
     persons_categories: /les-cineastes/categories/:slug/
+    authors: /les-cineastes/:slug/actualites/
   taxonomies:
     administrator: administrators
     author: authors
