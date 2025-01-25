@@ -16,7 +16,7 @@ items:
   path: "/persons"
   file: content/fr/persons/_index.html
 - title: Les actions
-  target: "/projets/"
+  target: "/actions/"
   kind: page
   new_tab: false
   children: []
