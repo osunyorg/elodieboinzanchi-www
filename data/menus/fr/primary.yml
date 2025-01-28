@@ -8,13 +8,6 @@ items:
   children: []
   path: "/posts"
   file: content/fr/posts/_index.html
-- title: Les cinéastes
-  target: "/les-cineastes/"
-  kind: page
-  new_tab: false
-  children: []
-  path: "/persons"
-  file: content/fr/persons/_index.html
 - title: Les actions
   target: "/actions/"
   kind: page
