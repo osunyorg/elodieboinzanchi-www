@@ -2,6 +2,11 @@
 
 baseURL: https://www.elodieboinzanchi.osuny.site
 
+## OSUNY
+osuny:
+  website:
+    id: 86a5b148-ed46-473b-bf7b-58b6924fa9c2
+
 ## LANGUAGE
 defaultContentLanguage: fr
 defaultContentLanguageInSubdir: false
