@@ -1,7 +1,7 @@
 ---
 title: Menu principal
 items:
-- title: Les chapitres
+- title: Table des matières
   target: "/films/"
   kind: page
   new_tab: false
