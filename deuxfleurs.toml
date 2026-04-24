@@ -15,146 +15,146 @@ for = ["**/*.png", "**/*.jpg", "**/*.jpeg", "**/*.gif", "**/*.webp"]
 Cache-Control = "max-age=31536000, no-transform, public"
 
 [[redirects]]
-from = "/agenda/2025-1/10/"
+from = "/agenda/2025-1/10/index.html"
 to = "/agenda/2025/10/"
 
 [[redirects]]
-from = "/raphaele-dumas/"
+from = "/raphaele-dumas/index.html"
 to = "/les-cineastes/raphaele-dumas/"
 
 [[redirects]]
-from = "/agenda/2025-1/03/"
+from = "/agenda/2025-1/03/index.html"
 to = "/agenda/2025/03/"
 
 [[redirects]]
-from = "/agenda/2025-1/01/"
+from = "/agenda/2025-1/01/index.html"
 to = "/agenda/2025/01/"
 
 [[redirects]]
-from = "/agenda/2025-1/11/"
+from = "/agenda/2025-1/11/index.html"
 to = "/agenda/2025/11/"
 
 [[redirects]]
-from = "/categories/adherentes/"
+from = "/categories/adherentes/index.html"
 to = "/les-cineastes/categories/membres/"
 
 [[redirects]]
-from = "/agenda/2025-1/06/"
+from = "/agenda/2025-1/06/index.html"
 to = "/agenda/2025/06/"
 
 [[redirects]]
-from = "/agenda/2025-1/02/"
+from = "/agenda/2025-1/02/index.html"
 to = "/agenda/2025/02/"
 
 [[redirects]]
-from = "/annuaire/"
+from = "/annuaire/index.html"
 to = "/les-cineastes/"
 
 [[redirects]]
-from = "/jean-charles-leyris/"
+from = "/jean-charles-leyris/index.html"
 to = "/les-cineastes/jean-charles-leyris/"
 
 [[redirects]]
-from = "/agenda/2025-01-28-test-evenement/"
+from = "/agenda/2025-01-28-test-evenement/index.html"
 to = "/agenda/2025/test-evenement/"
 
 [[redirects]]
-from = "/agenda/2025-1/09/"
+from = "/agenda/2025-1/09/index.html"
 to = "/agenda/2025/09/"
 
 [[redirects]]
-from = "/2025-01-24-sortie-du-dernier-film/"
+from = "/2025-01-24-sortie-du-dernier-film/index.html"
 to = "/actualites/2025-01-24-sortie-du-dernier-film/"
 
 [[redirects]]
-from = "/agenda/2025-1/12/"
+from = "/agenda/2025-1/12/index.html"
 to = "/agenda/2025/12/"
 
 [[redirects]]
-from = "/equipe/"
+from = "/equipe/index.html"
 to = "/les-cineastes/"
 
 [[redirects]]
-from = "/actualites-des-films/"
+from = "/actualites-des-films/index.html"
 to = "/les-cineastes/actualites-des-films/"
 
 [[redirects]]
-from = "/films/1968-les-premices/"
+from = "/films/1968-les-premices/index.html"
 to = "/films/1915-les-premices/"
 
 [[redirects]]
-from = "/agenda/2025-1/05/"
+from = "/agenda/2025-1/05/index.html"
 to = "/agenda/2025/05/"
 
 [[redirects]]
-from = "/elodie-boin-zanchi/"
+from = "/elodie-boin-zanchi/index.html"
 to = "/les-cineastes/elodie-boin-zanchi/"
 
 [[redirects]]
-from = "/projets/"
+from = "/projets/index.html"
 to = "/films/"
 
 [[redirects]]
-from = "/actions/"
+from = "/actions/index.html"
 to = "/films/"
 
 [[redirects]]
-from = "/agenda/2025-1/"
+from = "/agenda/2025-1/index.html"
 to = "/agenda/2025/"
 
 [[redirects]]
-from = "/categories/membres/"
+from = "/categories/membres/index.html"
 to = "/les-cineastes/categories/membres/"
 
 [[redirects]]
-from = "/elodie-boin-zanchi/actualites/"
+from = "/elodie-boin-zanchi/actualites/index.html"
 to = "/les-cineastes/elodie-boin-zanchi/actualites/"
 
 [[redirects]]
-from = "/les-cineastes/actualite-des-films/"
+from = "/les-cineastes/actualite-des-films/index.html"
 to = "/les-cineastes/actualites-des-films/"
 
 [[redirects]]
-from = "/actions/1968-les-premices/"
+from = "/actions/1968-les-premices/index.html"
 to = "/films/1915-les-premices/"
 
 [[redirects]]
-from = "/actus-des-films/"
+from = "/actus-des-films/index.html"
 to = "/actualites/actus-des-films/"
 
 [[redirects]]
-from = "/agenda/2025-1/04/"
+from = "/agenda/2025-1/04/index.html"
 to = "/agenda/2025/04/"
 
 [[redirects]]
-from = "/2025-01-24-sortie-du-dernier-film-1/"
+from = "/2025-01-24-sortie-du-dernier-film-1/index.html"
 to = "/actualites/2025-01-24-sortie-du-dernier-film-1/"
 
 [[redirects]]
-from = "/les-cineastes/categories/adherentes/"
+from = "/les-cineastes/categories/adherentes/index.html"
 to = "/les-cineastes/categories/membres/"
 
 [[redirects]]
-from = "/equipe/equipe-editoriale/"
+from = "/equipe/equipe-editoriale/index.html"
 to = "/les-cineastes/equipe-editoriale/"
 
 [[redirects]]
-from = "/claire-marty/"
+from = "/claire-marty/index.html"
 to = "/les-cineastes/claire-marty/"
 
 [[redirects]]
-from = "/equipe-editoriale/"
+from = "/equipe-editoriale/index.html"
 to = "/les-cineastes/equipe-editoriale/"
 
 [[redirects]]
-from = "/agenda/2025-1/07/"
+from = "/agenda/2025-1/07/index.html"
 to = "/agenda/2025/07/"
 
 [[redirects]]
-from = "/agenda/2025-1/08/"
+from = "/agenda/2025-1/08/index.html"
 to = "/agenda/2025/08/"
 
 [[redirects]]
-from = "/annuaire/equipe-editoriale/"
+from = "/annuaire/equipe-editoriale/index.html"
 to = "/les-cineastes/equipe-editoriale/"
 
